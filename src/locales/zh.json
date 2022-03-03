@@ -1,0 +1,22 @@
+{
+  "header": {
+    "Music": "音乐",
+    "About": "详细信息",
+    "Login / Register": "登录 / 注册",
+    "Manage": "管理音乐",
+    "Logout": "退出"
+  },
+  "home": {
+    "listen": "聆听美妙的音乐！"
+  },
+  "manage": {
+    "my_songs": "我的歌曲"
+  },
+  "register": {
+    "TOS": "服务条款",
+    "accept": "我接受{0}"
+  },
+  "song": {
+    "comment_count": "暂无评论 | 1 评论 | {count} 评论"
+  }
+}
